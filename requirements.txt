@@ -16,7 +16,7 @@ Kivy==1.10.0
 termcolor==1.1.0
 xtermcolor==1.3
 pyperclip==1.5.27
-autobahn==17.6.1
+autobahn==20.12.3
 elasticsearch==5.4.0
 PyAutoGUI==0.9.36
 h5py==2.7.0
